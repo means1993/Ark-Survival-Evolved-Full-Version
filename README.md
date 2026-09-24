@@ -245,4 +245,4 @@ This repository serves as the official landing page for ARK: Survival Evolved. T
 **Get the most recent version of ARK: Survival Evolved today!**
 
 ---
-**Last updated:** 2026-09-23 21:56:54 UTC
+**Last updated:** 2026-09-24 00:14:28 UTC
